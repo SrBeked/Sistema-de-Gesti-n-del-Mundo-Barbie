@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1749264354,
+        "nombre": "Dise\u00f1adora de Moda",
+        "categoria": "Moda",
+        "salario": 1000
+    },
+    {
+        "id": 1749278011,
+        "nombre": "Astronauta",
+        "categoria": "Ciencia",
+        "salario": 2000
+    }
+]

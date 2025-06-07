@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1749264432,
+        "nombre": "Pamela",
+        "apellido": "Rubio",
+        "fecha_nacimiento": "2000-02-15",
+        "experiencia": "Intermedio",
+        "profesion_id": "1749264354"
+    },
+    {
+        "id": 1749278137,
+        "nombre": "Carol",
+        "apellido": "Gomes",
+        "fecha_nacimiento": "1995-12-20",
+        "experiencia": "Avanzado",
+        "profesion_id": 1749278011,
+        "foto": "https:\/\/i.pinimg.com\/564x\/9d\/0f\/f3\/9d0ff3fe27aa0e0164488c6054f60551.jpg"
+    }
+]
